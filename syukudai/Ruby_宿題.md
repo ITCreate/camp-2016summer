@@ -38,6 +38,9 @@ Ruby宿題
 		グローバル変数 		 $person
 		定数				 Person
 		
+		
+	```
+	
 - 属性を増やしてみよう
 - 
 	```
@@ -98,6 +101,8 @@ Ruby宿題
 	
 	person == dhh #->false
 	person == matz #-> false おかしい
+	```
+	
 	
 - 順番を決めよう
 	
@@ -163,13 +168,13 @@ Ruby宿題
 	class Person
 	 	def eql? o
 			[@name,@born].eql? [o.name,o.born]
+    		end
     	end
-    end
     
-    key.eql? matz
-    key.eql? dhh 
+    	key.eql? matz
+    	key.eql? dhh 
     
-    ```
+	 ```
     
 - Hashにアクセスしてみよう
  
@@ -198,11 +203,11 @@ Ruby宿題
 	- private
 	
 	```
-	class Person
-		protected :born
-	end
+		class Person
+			protected :born
+		end
 	
-	matz.born
+		matz.born
 	``` 	
 
 - Structでクラスを作る
