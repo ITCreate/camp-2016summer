@@ -1,9 +1,12 @@
+- var base = "";
+- for(var i=1; current.path.length > i; i++){ base += "../" }
+
 meta(charset="utf-8")
 title= title
 meta(name="description", content="#{ description }")
 meta(name="viewport", content="width=device-width*2, initial-scale=1.0")
-link(rel="stylesheet", href="/asset/semantic/semantic.min.css")
-link(rel="stylesheet", href="/asset/github-markdown-css/github-markdown.css")
-link(rel="stylesheet", href="/css/style.css")
-script(src="/asset/jquery/jquery.min.js")
-script(src="/asset/semantic/semantic.min.js")
+link(rel="stylesheet", href="#{base}asset/semantic/semantic.min.css")
+link(rel="stylesheet", href="#{base}asset/github-markdown-css/github-markdown.css")
+link(rel="stylesheet", href="#{base}css/style.css")
+script(src="#{base}asset/jquery/jquery.min.js")
+script(src="#{base}asset/semantic/semantic.min.js")
