@@ -11,9 +11,9 @@
 by ITCreate部 顧問
 ```
 
-- [準備](guidebook/setup.md)
-- [移動](guidebook/move.md)
-- [合宿中](guidebook/camp.md)
+- [準備](guidebook/setup.html)
+- [移動](guidebook/move.html)
+- [合宿中](guidebook/camp.html)
 
 
 ## 概要
@@ -23,8 +23,6 @@ Key|Value
 行き先|大阪経済法科大学阪南キャンパス<br>〒599-0232 大阪府阪南市箱作2825－2
 日程|2015年9月11～13日　二泊三日
 集合|11日 12:35　学生ホールにて
-
-当日顧問が車で荷物を運びます。なお貴重品は各自で管理してください。
 
 
 ## 資料について

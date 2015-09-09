@@ -1,0 +1,10 @@
+doctype
+html(lang="en")
+  head
+    != partial("_shared/head")
+  body
+    div(class="page-#{current.source==='index'?'index':'content'}")
+      != partial("_shared/header")
+      .ui.container.main.markdown-body
+        != yield
+    != partial("_shared/footer")
