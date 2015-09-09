@@ -9,4 +9,5 @@ npm install -g bower bower-installer harp
 bower install
 bower-installer
 harp compile
+git subtree push --prefix public/ origin gh-pages
 ```

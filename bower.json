@@ -23,6 +23,7 @@
     "sources": {
       "semantic": "bower_components/semantic/dist/**",
       "jquery": "bower_components/jquery/dist/*"
-    }
+    },
+    "ignore": ["*.less"]
   }
 }
