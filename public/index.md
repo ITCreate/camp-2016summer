@@ -14,6 +14,7 @@ by ITCreate部 顧問
 - [準備](guidebook/setup.html)
 - [移動](guidebook/move.html)
 - [合宿中](guidebook/camp.html)
+- [スポンサー](guidebook/sponsor.html)
 
 
 ## 概要
