@@ -1,0 +1,7 @@
+- function itemclass(name){ return "item " + (current.source==name?"active":"")}
+- var base = "";
+- for(var i=1; current.path.length > i; i++){ base += "../" }
+a(class="#{itemclass('index')}" href="#{base}") Home
+a(class="#{itemclass('setup')}" href="#{base}guidebook/setup.html") Setup
+a(class="#{itemclass('move')}" href="#{base}guidebook/move.html") Move
+a(class="#{itemclass('camp')}" href="#{base}guidebook/camp.html") Camp

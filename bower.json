@@ -1,0 +1,32 @@
+{
+  "name": "2015 Summer Camp",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ITCreate/camp-2015summer",
+  "authors": [
+    "kamijin_fanta <kamijin@live.jp>"
+  ],
+  "license": "none",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "github-markdown-css": "~2.0.10",
+    "jquery": "~2.1.4",
+    "konami-code": "~1.3.2",
+    "semantic": "~2.1.3"
+  },
+  "install": {
+    "path": "public/asset",
+    "sources": {
+      "semantic": "bower_components/semantic/dist/**",
+      "jquery": "bower_components/jquery/dist/*"
+    },
+    "ignore": [
+      "*.less"
+    ]
+  }
+}
