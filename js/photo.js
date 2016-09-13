@@ -10,8 +10,8 @@ $(function(){
 		},
 		ready: function(){
 			var folderId = "0B4ZiWZMCdy8lOUJXbmo5c2NMdTg";
-			var url = 'https://script.google.com/macros/s/AKfycbxQ3JNihxE2kHRZS3EXCZ4P28t2DWxeXGuMs6Bfg10/dev?id=' + folderId;
-			var self = this;
+			var url = 'https://script.google.com/macros/s/AKfycbwTqmb24QtAjy_I-mkGJQBrrQdfuIXoAwiAm9Syj__Fv_ZtvYg/exec?id=' + folderId; 
+			var self = this;			
 			$.ajax({
 				url: url,
 				dataType: 'jsonp', // 追加
