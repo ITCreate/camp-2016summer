@@ -14,6 +14,7 @@ by ITCreate部 顧問
 - [準備](guidebook/setup.html)
 - [移動](guidebook/move.html)
 - [合宿中](guidebook/camp.html)
+<!-- - [写真](guidebook/photo.html)-->
 - [スポンサー](guidebook/sponsor.html)
 
 
@@ -22,7 +23,7 @@ by ITCreate部 顧問
 Key|Value
 ---|---
 行き先|大阪経済法科大学阪南キャンパス<br>〒599-0232 大阪府阪南市箱作2825－2
-日程|2015年9月16～18日　二泊三日
+日程|2016年9月16～18日　二泊三日
 集合|16日 13:20　1Fにて
 
 
